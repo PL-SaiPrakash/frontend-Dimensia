@@ -74,6 +74,16 @@ The build artifacts will be stored in the `build/` directory.
 - Three.js for 3D rendering
 - React Three Fiber
 
+## Screenshots
+
+### Home Page
+![Home Page](./screenshots/home.png)
+*The main interface where users can upload 3D models*
+
+### Model Viewer
+![Model Viewer](./screenshots/viewer.png)
+*Interactive 3D viewer with rotation, pan and zoom controls*
+
 ## Related Projects
 
 - [Dimensia Backend](https://github.com/PL-SaiPrakash/backend-Dimensia) - Flask backend for this application
