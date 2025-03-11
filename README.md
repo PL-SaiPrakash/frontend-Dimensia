@@ -77,11 +77,11 @@ The build artifacts will be stored in the `build/` directory.
 ## Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./UI/Home.jpg)
 *The main interface where users can upload 3D models*
 
 ### Model Viewer
-![Model Viewer](./screenshots/viewer.png)
+![Model Viewer](./UI/Model Viewer.jpg)
 *Interactive 3D viewer with rotation, pan and zoom controls*
 
 ## Related Projects
